@@ -19,12 +19,15 @@ El conocimiento actual que tengo es gracias al bootcamp de Henry que me ayudó a
 - JavaScript
 - Node.js
 - PostreSQL<br>
+
 Entre otras herramientas se pueden mencionar **Express**,**Redux** y librerías como **Sweet Alert 2** y **React Bootstrap**. Además tengo mucho interés y estoy en proceso de aprendizaje en **Machine Learning** y todo lo relacionado con inteligencia artificial.
 
 ### No dudes en contactarme!
 Juntos podemos realizar un proyecto que nos ayude a crecer profesionalmente y también puedo ser de utilidad para mejorar el rendimiento de tu empresa o negocio!<br>
 [Linked In](https://www.linkedin.com/in/agustin-camuzzi-3a9b81272/)<br>
+
 Correo: camuzziagustin@gmail.com<br>
+
 Cel: (+54) 266 4953687
 
 
