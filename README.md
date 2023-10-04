@@ -1,4 +1,9 @@
-### Hi there 👋
+### Buenas!! Mi nombre es Agustin Camuzzi 👋
+
+<h1>¿Quien soy?</h1>
+<p>Soy un <bold>Desarrollador Full Stack</bold> orientado sobre todo al <bold>Front End</bold> en la creación de componentes y vistas. 
+  Siempre me ha interesado el mundo IT pero mis comienzos fueron cuando me gradué del colegio y empecé a estudiar Ingenieria Electrónica. Luego de varios años cursé y me gradué del bootcamp de <bold>Soy Henry</bold>, que fue la experiencia más motivadora que tuve en acercamiento al código y trabajo en equipo. 
+</p>
 
 <!--
 **Camuzzi/Camuzzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
