@@ -12,19 +12,19 @@ Actualmente me enfoco en estudiar nuevas tecnologías para avanzar en mi formaci
 Mi objetivo principal es seguir adentrandome en todo lo que es el mundo IT y su mercado laboral, poder generar nuevas habilidades que además de ayudarme a mi ayuden a los demás en su vida cotidiana y laboral. Además de conseguir mi primer trabajo en el mundo IT, ya sea de manera remota, híbrida o ambas.
 
 ## ¿Que tecnologías uso?
-El conocimiento actual que tengo es gracias al bootcamp de Henry que me ayudó a adquirir conocimiento y experiencia mediante los proyectos dentro del mismo, que son las siguientes:
+El conocimiento actual que tengo es gracias al bootcamp de Henry que me ayudó a adquirir conocimiento y experiencia mediante los proyectos dentro del mismo, que son las siguientes:<br>
 - React.js
 - HTML
 - CSS
 - JavaScript
 - Node.js
-- PostreSQL
+- PostreSQL<br>
 Entre otras herramientas se pueden mencionar **Express**,**Redux** y librerías como **Sweet Alert 2** y **React Bootstrap**. Además tengo mucho interés y estoy en proceso de aprendizaje en **Machine Learning** y todo lo relacionado con inteligencia artificial.
 
 ### No dudes en contactarme!
-Juntos podemos realizar un proyecto que nos ayude a crecer profesionalmente y también puedo ser de utilidad para mejorar el rendimiento de tu empresa o negocio!
-[Linked In](https://www.linkedin.com/in/agustin-camuzzi-3a9b81272/)
-Correo: camuzziagustin@gmail.com
+Juntos podemos realizar un proyecto que nos ayude a crecer profesionalmente y también puedo ser de utilidad para mejorar el rendimiento de tu empresa o negocio!<br>
+[Linked In](https://www.linkedin.com/in/agustin-camuzzi-3a9b81272/)<br>
+Correo: camuzziagustin@gmail.com<br>
 Cel: (+54) 266 4953687
 
 
