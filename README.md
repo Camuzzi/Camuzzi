@@ -1,7 +1,7 @@
 # Buenas!! Mi nombre es Agustin Camuzzi 👋
 
 ## ¿Quien soy?
-Soy un **Desarrollador Full Stack** orientado sobre todo al **Front End** en la creación de componentes y vistas. 
+Soy un **Desarrollador Full Stack** orientado sobre todo al **Front End** en la creación de componentes y vistas. <br>
   Siempre me ha interesado el mundo IT pero mis comienzos fueron cuando me gradué del colegio y empecé a estudiar Ingenieria Electrónica. Luego de varios años cursé y me gradué del bootcamp de **Soy Henry**, que fue la experiencia más motivadora que tuve en acercamiento al código y trabajo en equipo. 
 
 
